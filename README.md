@@ -2,7 +2,7 @@
 ## Silvia Furlan, Paolo Sammicheli
 Il presente repository contiene i file presentati nella presentazione e le slides dell'intervento
 
- * Slides (coming soon)
+ * [Slides](slides.pdf)
  * [CLAUDE.md](CLAUDE.md)
  * [user-story-command.md](user-story-command.md)
  * [user-story-sample.md](user-story-sample.md)

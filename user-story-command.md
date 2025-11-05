@@ -1,4 +1,4 @@
-# User Story Development Command
+# User Story Custom Command
 
 You will be provided with a user story number (e.g., "03") as an argument. Your task is to analyze, plan, and incrementally implement that user story following the workflow below.
 
